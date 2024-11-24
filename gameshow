@@ -1,14 +1,14 @@
 {
   "name": "Jastin JL",
-  "shortName": "",
-  "description": "",
-  "color": "",
+  "shortName": "gameshow",
+  "description": "gameshow",
+  "color": "purple",
   "rootUrl": "sounds/",
   "author": {
-    "name": "",
+    "name": "jl",
     "url": ""
   },
-  "lang": "",
+  "lang": "en",
   "version": "1.0.0",
   "icons": [
     {
