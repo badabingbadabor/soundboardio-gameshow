@@ -1,0 +1,116 @@
+{
+  "name": "Jastin JL",
+  "shortName": "",
+  "description": "",
+  "color": "",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "",
+    "url": ""
+  },
+  "lang": "",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/icon-48.png",
+      "sizes": "48x48",
+      "purpose": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "2_BIGYAN_NG_TIMA_",
+      "filename": "2_BIGYAN_NG_TIMA_.mp3"
+    },
+    {
+      "name": "3s_COUNTDOWN_",
+      "filename": "3s_COUNTDOWN_.mp3"
+    },
+    {
+      "name": "150_PESOS_",
+      "filename": "150_PESOS_.mp3"
+    },
+    {
+      "name": "BAAM",
+      "filename": "BAAM.mp3"
+    },
+    {
+      "name": "BIGYAN_NG_TIMA",
+      "filename": "BIGYAN_NG_TIMA.mp3"
+    },
+    {
+      "name": "BOY_IN_LUV_(WINNING_ANNOUNCEMENT)",
+      "filename": "BOY_IN_LUV_(WINNING_ANNOUNCEMENT).mp3"
+    },
+    {
+      "name": "CAREGORY",
+      "filename": "CAREGORY.mp3"
+    },
+    {
+      "name": "CORRECT_ANSWER_CELEBRATION",
+      "filename": "CORRECT_ANSWER_CELEBRATION.mp3"
+    },
+    {
+      "name": "CRASH",
+      "filename": "CRASH.mp3"
+    },
+    {
+      "name": "DEAD_BEAT_EVERYBODY'S_GET_DOWN_",
+      "filename": "DEAD_BEAT_EVERYBODY'S_GET_DOWN_.mp3"
+    },
+    {
+      "name": "Drum_Roll_Sound_Effect_[Extended___High_Quality](144p)_1",
+      "filename": "Drum_Roll_Sound_Effect_[Extended___High_Quality](144p)_1.mp3"
+    },
+    {
+      "name": "FLAGTIMA",
+      "filename": "FLAGTIMA.mp3"
+    },
+    {
+      "name": "MAGIC",
+      "filename": "MAGIC.mp3"
+    },
+    {
+      "name": "MC_OPENING_",
+      "filename": "MC_OPENING_.mp3"
+    },
+    {
+      "name": "NEXT_QUESTION_",
+      "filename": "NEXT_QUESTION_.mp3"
+    },
+    {
+      "name": "QUESTION_SUSPENSE",
+      "filename": "QUESTION_SUSPENSE.mp3"
+    },
+    {
+      "name": "TAMA_CELEB_2",
+      "filename": "TAMA_CELEB_2.mp3"
+    },
+    {
+      "name": "TAMA_CELEB_3",
+      "filename": "TAMA_CELEB_3.mp3"
+    },
+    {
+      "name": "TAMA_CELEB_4",
+      "filename": "TAMA_CELEB_4.mp3"
+    },
+    {
+      "name": "THROW",
+      "filename": "THROW.mp3"
+    },
+    {
+      "name": "THROW_SFX",
+      "filename": "THROW_SFX.mp3"
+    },
+    {
+      "name": "WRONG_BUZZER",
+      "filename": "WRONG_BUZZER.mp3"
+    }
+  ]
+}
